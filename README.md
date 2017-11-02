@@ -6,8 +6,8 @@
 >支持点赞与评论功能
 >支持"全文"与"收回功能"
 
-![](https://github.com/andy123234/Moment-Base-YYKit-/raw/master/Screenshot/1.png)
+![](https://github.com/andy123234/Moment-Base-YYKit-/raw/master/ScreenShot/1.png)
 
-![](https://github.com/andy123234/Moment-Base-YYKit-/raw/master/Screenshot/2.png)
+![](https://github.com/andy123234/Moment-Base-YYKit-/raw/master/ScreenShot/2.png)
 
-![](https://github.com/andy123234/Moment-Base-YYKit-/raw/master/Screenshot/3.png)
+![](https://github.com/andy123234/Moment-Base-YYKit-/raw/master/ScreenShot/3.png)
