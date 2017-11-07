@@ -18,8 +18,9 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
     
+    [UIApplication sharedApplication].statusBarStyle = UIStatusBarStyleLightContent;
+
     self.window =[[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     NewDynamicsViewController * vc = [NewDynamicsViewController new];
     UINavigationController * NC = [[UINavigationController alloc] initWithRootViewController:vc];
